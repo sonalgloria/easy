@@ -1,0 +1,76 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+.body{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}
+.box{
+    border-radius: 7px ;
+    box-shadow: 2px 2px 2px 5px rgba(235, 226, 226, 0.808);
+}
+
+/*Box 1 starts*/
+.box1{
+    background-color: white;
+    border-radius: 7px 7px 0px 0px;
+}
+
+.box1heading{
+    color: hsl(179, 62%, 43%);
+    font-size: medium;
+    font-weight: 700;
+}
+
+.box1secondLine{
+    color: hsl(71, 73%, 54%);
+}
+/*Box 1 ends*/
+
+/*Box 2 starts*/
+.box2{
+    background-color: hsl(179, 62%, 43%);
+    border-radius: 0px 0px 0px 7px;
+}
+
+.pading{
+    padding-top: 10px ;
+}
+
+.yellowbtn{
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+}
+
+.yellowbtn:hover{
+    background-color: hsla(71, 94%, 69%, 0.692);
+    color: white;
+    font-weight: 600;
+    box-shadow: 3px 3px 3px  hsla(71, 73%, 54%, 0.692);
+}
+
+/*Box 2 endss*/
+
+/*Box 3 starts*/
+.box3{
+    background-color:  hsla(179, 62%, 43%, 0.664);
+    border-radius: 0px 0px 7px 0px;
+}
+/*Box 3 ends*/
+
+span{
+    font-size: small;
+    color:  hsl(204, 43%, 93%);
+    font-weight: 400;
+}
+
+h5{
+    font-size: smaller;
+    font-weight: 700;
+}
+
+
+
+
+
+
